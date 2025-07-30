@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#BEE",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 1.22567567567568,
+  "lineSizeMultiplier": 2.91673596673597,
+  "collapse-forces": false,
+  "centerStrength": 0.458419958419958,
+  "repelStrength": 12.5779625779626,
+  "linkStrength": 0.666320166320166,
+  "linkDistance": 273,
+  "scale": 0.5864549262735426,
+  "close": true
+}
