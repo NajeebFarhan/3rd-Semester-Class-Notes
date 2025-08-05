@@ -1,5 +1,5 @@
 ---
-Subject: Computer graphics and multemedia
+Subject: "[[Computer Graphics and Multemedia]]"
 tags:
   - CG
 chapter/unit: "[[Unit 1 -]]"
