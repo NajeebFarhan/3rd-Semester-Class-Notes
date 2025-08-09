@@ -10,7 +10,7 @@ date: 2025-07-26
 ---
 
 # Instruction format
-In computer organization, **instruction formats** refer to the way instruction s are encoded and representing machine language.
+In computer organization, **instruction formats** refer to the way instructions are encoded and representing machine language.
 
 There are several types of instruction format including:
 - **3 Address instruction**
