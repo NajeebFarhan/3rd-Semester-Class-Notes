@@ -13,3 +13,6 @@ date: 2025-07-26
 - [[Instruction format]]
 - [[Instruction field]]
 - [[Instruction types]]
+
+## Rough
+[[Computer Architecture/main notes/Rough note]]
