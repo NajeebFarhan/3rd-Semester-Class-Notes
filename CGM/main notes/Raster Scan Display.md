@@ -2,7 +2,7 @@
 Subject: "[[Computer Graphics and Multemedia]]"
 tags:
   - CG
-chapter/unit: "[[Unit 1 -]]"
+chapter/unit: 
 related links: 
 date: 2025-07-30
 ---

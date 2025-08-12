@@ -7,5 +7,8 @@
 6. [[Raster Scan Display]]
 
 
-# Unit 2
+## Rough note
+[[Algorithm and Techniques in Scan Conversion]]
+[[Bresenham's Line Drawing Algorithm]]
+# Unit 4
 [[Introduction to multimedia]]

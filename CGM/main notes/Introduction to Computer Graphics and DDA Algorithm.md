@@ -8,6 +8,9 @@
 - This is where these line drawing algorithms enter to decide which pixel to turn on between two points to form a line
 	- DDA Algorithm(Digital Differential Analyzer): This is a simple step by step method to draw a line by incrementing x or y by small amounts and calculating the corresponding y or x value
 
+# DDA Algorithm
+DDA is step-by-step method to draw a line by incrementing x or y by small amounts and calculating the corresponding y or x value. 
+
 # How DDA works
 1. Find slop of the line. 
    $\text{slope}  = \frac{dy}{dx}$
@@ -18,11 +21,13 @@
    y = y + y<sub>increment</sub>
 4. Plot the pixel at each (x, y) position using putpixel() (function in <graphics.h> in C)
 
-# DDA Algorithm
+### Example 
 We want to draw a line from point (2,3) to (10,7) using the DDA algorithm.
 -  We will first from pixel (2, 3) and move pixel by pixel towards (10, 7) by calculating which pixels to turn ON.
 
-**STEP I**: Find $dx$ and $dy$
+**STEP I**: Find slope of the line
+$\text{slope} = \frac{dy}{dx}$
+To calculate $dx$ and $dy$
 $dx = x_2 - x_1 = 10 -2 = 8$
 $dy = y_2 - y_1 = 7 - 3 = 4$
 
