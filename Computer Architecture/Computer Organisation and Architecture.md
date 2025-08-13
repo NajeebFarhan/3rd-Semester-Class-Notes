@@ -16,5 +16,5 @@ Related:
 		- [[2-Address Instruction]]
 		- [[1-Address Instruction]]
 		- [[0-Address Instruction]]
-	- [[Question set 1]]
+	- [[Question set 1]] (incomplete)
 	- [[Addressing Mode|Addressing Mode]]

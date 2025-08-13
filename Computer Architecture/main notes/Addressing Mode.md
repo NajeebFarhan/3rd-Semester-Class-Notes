@@ -100,3 +100,22 @@ In this mode the content of base register is added to the address part of the in
 | Register Indirect mode    | 400               | 700                        |
 | Auto increment            | 399               | 450                        |
 |                           |                   |                            |
+
+**Note on auto increment and auto decrement**:
+the auto increment note is the same as the register increment note except that $R1$ is incremented to 401 after the execution of the instruction. 
+the auto decrement mode decrements R1 to 399 prior to the execution of the instruction
+
+---
+**Q.** An instruction is stored at location 300 with its address field of location 301. The address field of the instruction has the value 250 and processor register contains 200. Evaluate the effective address if addressing mode is direct, immediate, indirect, relative, and register addressing mode.
+
+
+\* The next instruction to be located is at 302
+
+---
+**Q.** A relative branch mode type of instruction is stored in memory at address 300, the branch is made to an address 450.
+a) what should be the value of relative address 
+b) Determine the value of PC before the instruction fetch and after fetch, and after the execution.
+
+
+
+Q) A relative branch mode type instruction has taken branch to an address 750. The branch instruction is of 4 bytes and it has relative address value(offset value) 400. Then what is the starting address of the instruction in memory? Assume that the system has byte addressable memory organisation.
